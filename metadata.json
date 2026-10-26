@@ -1,0 +1,11 @@
+{
+  "name": "Multimodal Attendance & Engagement Agent",
+  "description": "Automated attendance tracking, computer-vision sustained presence analysis, local audio activity metrics, and evidence-based teaching recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
